@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 
+# simpleform
+gem 'simple_form'
+
+# Pagination. Gemfile for Rails 3+, Sinatra, and Merb
+gem 'will_paginate', '~> 3.1.0'
+
 # Add Bootstrap 3
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
